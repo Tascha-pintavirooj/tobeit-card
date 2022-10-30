@@ -11,14 +11,14 @@
      display: flex;
      justify-content: center;
      align-items: center;
-     background-color: rgb(245, 247, 248);
+     background-color: rgb(206, 201, 250);
      font-family: 'Prompt', sans-serif;
  }
 
  card {
      padding: 2em;
      margin: 1em;
-     background-color: white;
+     background-color: rgb(250, 208, 208);
      border-radius: 0.35em;
      box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
  }
@@ -28,7 +28,7 @@
  }
 
  .my-blog>h2 {
-     color: rgb(18, 105, 219);
+     color: rgb(129, 177, 240);
  }
 
  .my-blog>hr {
@@ -37,7 +37,7 @@
 
  .my-blog>p {
      max-width: 40em;
-     color: rgb(102, 123, 156);
+     color: rgb(164, 174, 255);
      background-color: rgb(240, 241, 245);
      padding: 0.5em;
      border-radius: 0.25em;
